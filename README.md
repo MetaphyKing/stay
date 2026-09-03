@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1280" height="853" alt="stay-hero" src="https://github.com/MetaphyKing/stay/blob/main/assets/Stay-hero.webp?raw=true">
+  <img width="1280" height="850" alt="stay-hero" src="https://github.com/MetaphyKing/stay/blob/main/assets/Stay-hero.webp?raw=true">
 </p>
 
 ---
