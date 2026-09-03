@@ -1,0 +1,43 @@
+{
+  "genera": [
+    "Name",
+    "Place",
+    "System",
+    "Quantity",
+    "Ticket",
+    "Issue",
+    "Claim",
+    "Time",
+    "Event",
+    "Role",
+    "Org",
+    "Artifact",
+    "Source",
+    "Method",
+    "Unit",
+    "Rule",
+    "State",
+    "Signal",
+    "Risk"
+  ],
+  "fail_closed": true,
+  "disable": false,
+  "hook_events": [
+    "memory-write",
+    "extract-ingest",
+    "promote",
+    "identity",
+    "i2"
+  ],
+  "session_store": "graph-on-disk",
+  "gradient_requires_ticket": true,
+  "card_fields": [
+    "id",
+    "swatch_name",
+    "glyph",
+    "gloss"
+  ],
+  "mint": "on-use",
+  "mentions_mint": false,
+  "pui_closed": true
+}

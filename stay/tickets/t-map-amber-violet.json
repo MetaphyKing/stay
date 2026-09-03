@@ -1,0 +1,8 @@
+{
+  "id": "t-map-amber-violet",
+  "name": "amber-to-violet",
+  "named": true,
+  "reversible": true,
+  "forward": ["amber", "violet"],
+  "reverse": ["violet", "amber"]
+}

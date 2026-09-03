@@ -1,0 +1,9 @@
+{"id":"Name/Jessica/j-a3f0","genus":"Name","lemma":"Jessica","swatch":"slate","spoken":"Jessica"}
+{"id":"Name/Jessica/j-b7c1","genus":"Name","lemma":"Jessica","swatch":"slate"}
+{"id":"System/SPTS-SinglePrime/s-8293","genus":"System","lemma":"SPTS-SinglePrime","swatch":"steel","kind":"document-claim","spoken":"SPTS"}
+{"id":"System/SPTS-TrinaryEthics/s-abf8","genus":"System","lemma":"SPTS-TrinaryEthics","swatch":"steel","kind":"document-claim","spoken":"SPTS"}
+{"id":"System/SPTS-Superposition/s-b18a","genus":"System","lemma":"SPTS-Superposition","swatch":"steel","kind":"document-claim","spoken":"SPTS"}
+{"id":"Artifact/CDI-v4/c-2bff","genus":"Artifact","lemma":"CDI-v4","swatch":"sand","kind":"honest-result-not-final","spoken":"CDI"}
+{"id":"Artifact/Stay/s-77d6","genus":"Artifact","lemma":"Stay","swatch":"sand","kind":"design-not-built","spoken":"Stay"}
+{"id":"Claim/OverloadedLattice/o-1a64","genus":"Claim","lemma":"OverloadedLattice","swatch":"indigo"}
+{"id":"Claim/PdfCdiProbe/p-8c29","genus":"Claim","lemma":"PdfCdiProbe","swatch":"indigo"}

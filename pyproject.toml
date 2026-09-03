@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stay"
+version = "0.1.0"
+description = "Permanent context that is not the context window. Sense-id keys, card inject, fail-closed hook."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+authors = [
+  { name = "Randell Logan Smith", email = "logan@metaphysicsandcomputing.com" },
+]
+keywords = ["context", "memory", "agents", "sense-id"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "License :: OSI Approved :: Apache Software License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/MetaphyKing/stay"
+Repository = "https://github.com/MetaphyKing/stay"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["stay*"]
+
+[tool.setuptools.package-data]
+stay = [
+  "*.json",
+  "*.md",
+  "volumes/*.md",
+  "cards/*",
+  "ids/*",
+  "tickets/*",
+  "tests/*.py",
+]
