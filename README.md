@@ -1,5 +1,14 @@
 <p align="center">
-  <img src="docs/stay-hero.png" alt="STAY" width="100%">
+  <img src="assets/stay-hero.png" alt="STAY" width="100%">
+</p>
+<p align="center">
+  <a href="https://github.com/MetaphyKing/stay/raw/main/assets/stay-hero.png" download="stay-hero.png">
+    <img src="assets/download-stay-hero.svg" alt="Download stay-hero.png" height="48">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/MetaphyKing/stay/raw/main/assets/stay-hero.png" download="stay-hero.png"><kbd>stay-hero.png</kbd></a>
+  · PNG now. Drop a <code>stay-hero.webp</code> in <code>assets/</code> when you convert it.
 </p>
 
 # Stay
@@ -164,7 +173,8 @@ stay/
   tickets/          named reversible gradient tickets
   tests/
 docs/BIBLE.md       16-stage Stay Bible
-docs/stay-hero.png
+assets/stay-hero.png
+assets/download-stay-hero.svg
 ```
 
 Genus volumes (canonical order): Name, Place, System, Quantity, Ticket, Issue, Claim, Time, Event, Role, Org, Artifact, Source, Method, Unit, Rule, State, Signal, Risk.
