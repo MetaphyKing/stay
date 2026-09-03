@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="1280" height="853" alt="stay-hero" src="https://github.com/user-attachments/assets/ece10154-16d4-4fb4-a3a3-550c5b2524e1">
+  <img width="1280" height="853" alt="stay-hero" src="https://github.com/MetaphyKing/stay/blob/main/assets/Stay-hero.webp?raw=true">
 </p>
+
 
 # Stay
 
