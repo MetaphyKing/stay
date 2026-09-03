@@ -2,6 +2,7 @@
   <img width="1280" height="853" alt="stay-hero" src="https://github.com/MetaphyKing/stay/blob/main/assets/Stay-hero.webp?raw=true">
 </p>
 
+---
 
 # Stay
 
@@ -10,8 +11,6 @@ Permanent context that is not the context window.
 Stay is a locked harness hook with a small graph on disk. First write mints a unique sense-id into a topical volume. Later turns get one compact card. The encyclopedia stays on disk. The window stays small.
 
 Swatch names are paint. Recycle paint. Never recycle an id.
-
-Stay is not a 90. It is not a novelty claim. CDI is not this package.
 
 ## Install
 
