@@ -1,14 +1,5 @@
 <p align="center">
-  <img src="assets/stay-hero.png" alt="STAY" width="100%">
-</p>
-<p align="center">
-  <a href="https://github.com/MetaphyKing/stay/raw/main/assets/stay-hero.png" download="stay-hero.png">
-    <img src="assets/download-stay-hero.svg" alt="Download stay-hero.png" height="48">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/MetaphyKing/stay/raw/main/assets/stay-hero.png" download="stay-hero.png"><kbd>stay-hero.png</kbd></a>
-  · PNG now. Drop a <code>stay-hero.webp</code> in <code>assets/</code> when you convert it.
+  <img width="1280" height="853" alt="stay-hero" src="https://github.com/user-attachments/assets/ece10154-16d4-4fb4-a3a3-550c5b2524e1">
 </p>
 
 # Stay
